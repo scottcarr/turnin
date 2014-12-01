@@ -1,0 +1,6 @@
+[submodule "data-integrity-tests"]
+	path = data-integrity-tests
+	url = git@github.com:scottcarr/data-integrity-tests.git
+[submodule "fcfi-llvm"]
+	path = fcfi-llvm
+	url = git@github.com:sunblaze-ucb/fcfi-llvm.git
